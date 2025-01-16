@@ -1,0 +1,50 @@
+Construções :
+
+Que dão mais grana :
+Bolachas  150 = 1.17aa * 3.8s (   4,5aa )
+Café      150 =   29.T * 2.5s (  72,5T  )
+Croissant 150 =   46.9aa 5.0s ( 234,5aa )
+Muffins   150 =   1.87ab 6.3s ( 11,78ab ) 
+Rosquinha 150 =   733B * 1.3s ( 952,9B  )
+
+Nome :
+Nível = Produz - Tempo ( Preço - x10 )
+
+Bolachas
+149 = 543.0 T  3.8s
+150 = 1.17  aa 3.8s
+
+Café 
+149 = 13.5T 2.5s
+150 = 29.3T 2.5s
+
+Croissant
+126 =  3.7aa 5.0s
+136 =  7.9aa 
+150 = 46.9aa 5.0s
+
+Milk-shake
+049 =   79T 8.8s
+050 =  853T 8.8s
+052 =  995T 8.8s
+053 = 1.35aa 8.8s
+
+Muffins
+099 =  463.0T  6.3s
+100 =   20.0aa 6.3s
+103 =   25.2aa 6.3s (  252aa )
+112 =   50.4aa 6.3s (  504aa )
+118 =   80.0aa 6.3s (  800aa )
+124 =  126.0aa 6.3s ( 1.26ab )
+133 =  253.0aa 6.3s ( 531aa > 5.31ab )
+137 =  345.0aa 6.3s ( 1.11ab > 111ab )
+150 =   1.87ab 6.3s 
+
+Rosquinha
+150 = 733B 1.3s
+
+Sorvete
+074 =   135T  7.5s
+075 =  2.92aa 7.5s
+078 =  3.68aa 7.5s
+136 = 12.7ab  7.5s ( 45.9ab > 459ab )
