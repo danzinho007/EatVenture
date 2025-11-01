@@ -5,4 +5,3 @@ Sabor limão = 750aa
 
 Intervalos mais longos = 7ab
 ( + 1 Chef)
-
