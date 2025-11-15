@@ -1,5 +1,5 @@
 EatVenture_Novidades
 
-1-Criad arquivo Novidades
+1-Criado arquivo Novidades
 2-Jogar hoje
 3-
